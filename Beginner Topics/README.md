@@ -1,19 +1,9 @@
 # Table of contents
 
-* **Season 1:** &nbsp;[Greed is good, sort of.](./%5BS1%5D%20Greed%20is%20good%2C%20sort%20of)
-    1. &nbsp;EP 1: [Implementation](./%5BS1%5D%20Greed%20is%20good%2C%20sort%20of/%5BEP%201%5D%20Implementation.md)
-    2. &nbsp;EP 2: [Greedy](./%5BS1%5D%20Greed%20is%20good%2C%20sort%20of/%5BEP%202%5D%20Greedy.md)
-    3. &nbsp;EP 3: [Sorting](./%5BS1%5D%20Greed%20is%20good%2C%20sort%20of/%5BEP%203%5D%20Sorting.md)
-    4. &nbsp;EP 4: [C++ STL](./%5BS1%5D%20Greed%20is%20good%2C%20sort%20of/%5BEP%204%5D%20C%2B%2B%20STL.md)
-    5. &nbsp;EP 5: [Frequency tables](./%5BS1%5D%20Greed%20is%20good%2C%20sort%20of/%5BEP%205%5D%20Frequency%20tables.md)
+* 
     6. &nbsp;[Practice](./%5BS1%5D%20Greed%20is%20good%2C%20sort%20of/%5B%7E%5D%20Practice.md)
 
-* **Season 2:** &nbsp;[Primal proficiency](./%5BS2%5D%20Primal%20proficiency)
-    1. &nbsp;EP 1: [Basic math](./%5BS2%5D%20Primal%20proficiency/%5BEP%201%5D%20Basic%20math.md)
-    2. &nbsp;EP 2: [Primality, Factorization and Sieve](./%5BS2%5D%20Primal%20proficiency/%5BEP%202%5D%20Primality%2C%20Factorization%20and%20Sieve.md)
-    3. &nbsp;EP 3: [GCD and Totient function](./%5BS2%5D%20Primal%20proficiency/%5BEP%203%5D%20GCD%20and%20Totient%20function.md)
-    4. &nbsp;EP 4: [Modular Arithmetic](./%5BS2%5D%20Primal%20proficiency/%5BEP%204%5D%20Modular%20Arithmetic.md)
-    5. &nbsp;EP 5: [Binary Exponentiation](./%5BS2%5D%20Primal%20proficiency/%5BEP%205%5D%20Binary%20Exponentiation.md)
+* 
     6. &nbsp;[Practice](./%5BS2%5D%20Primal%20proficiency/%5B%7E%5D%20Practice.md)
 
 * **Season 3:** &nbsp;[2P or not to 2P? No wait isn't this just bs?!](./%5BS3%5D%202P%20or%20not%20to%202P%2C%20No%20wait%20isn%27t%20this%20just%20bs)
